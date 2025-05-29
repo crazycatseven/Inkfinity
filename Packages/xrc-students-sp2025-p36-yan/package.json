@@ -1,0 +1,39 @@
+{
+	"name": "xrc.students.sp2025.p36.yan",
+	"version": "1.0.0",
+	"displayName": "xrc.students.sp2025.p36.yan",
+	"description": "Lightweight Unity package for smart sticky notes with Logitech MX Ink. Features handwriting recognition, widgets (timers, todos, reminders) and mixed reality image processing for XR environments.",
+	"unity": "6000.0",
+	"documentationUrl": "https://xrc-students.github.io/xrc-students-sp2025-p36-yan",
+	"changelogUrl": "https://xrc-students.github.io/xrc-students-sp2025-p36-yan/changelog/CHANGELOG.html",
+	"licensesUrl": "https://xrc-students.github.io/xrc-students-sp2025-p36-yan/license/LICENSE.html",
+	"dependencies": {
+		"com.unity.xr.interaction.toolkit": "3.0.8",
+		"com.meta.xr.sdk.core": "76.0.0",
+		"com.meta.xr.mrutilitykit": "76.0.0",
+		"com.unity.xr.openxr": "1.14.3",
+		"com.unity.ugui": "2.0.0"
+	},
+	"keywords": [
+		"XRC",
+		"XR Collaboratory",
+		"Logitech MX Ink"
+	],
+	"author": {
+		"name": "XR Collaboratory"
+	},
+	"repository": {
+		"url": "https://github.com/xrc-students/xrc-students-sp2025-p36-yan",
+		"type": "git"
+	},
+	"xrcToolkit": {
+		"includeInOverview": false
+	},
+	"samples": [
+		{
+			"displayName": "Sticky Notes Sample",
+			"description": "Sample showcasing the implementation of the Sticky Notes feature.",
+			"path": "Samples~/Sticky Notes Sample"
+		}
+	]
+}

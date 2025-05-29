@@ -1,0 +1,10 @@
+- name: Manual
+  href: manual/
+- name: Scripting API
+  href: api/
+- name: Changelog
+  href: changelog/CHANGELOG.MD
+- name: License
+  href: license/LICENSE.MD
+- name: XRC Toolkit
+  href: https://github.com/xrcollaboratory/xrc-toolkit
