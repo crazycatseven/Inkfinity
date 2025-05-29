@@ -45,8 +45,7 @@ This project was developed as an Independent Study at the XR Collaboratory (XRC)
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
-    cd [YOUR_PROJECT_DIRECTORY]
+    git clone https://github.com/crazycatseven/Inkfinity.git
     ```
 2.  **Open in Unity & Switch Platform:** Open the project in Unity Hub with the specified Unity version. In `File > Build Settings`, switch the platform to `Android`.
 3.  **ChatGPT API Key:**
